@@ -1,1 +1,1 @@
-# PYTHON1
+# python-training
